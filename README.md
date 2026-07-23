@@ -46,4 +46,4 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 * **[High Performance LLMs](https://github.com/rwitten/HighPerfLLMs2024)**
 * **[Superconducting Qubits](https://arxiv.org/abs/1904.06560)** – Introductory material to superconducting qubits.
 * **[UC Berkeley EE290](https://qudev.notion.site/ee290)** – UC Berkeley superconducting quantum circuits course.
-* **[Longhorn Silicon Repo](https://github.com/LonghornSilicon) - UT Austin's Longhorn Silicon GitHub page
+* **[Longhorn Silicon Repo](https://github.com/LonghornSilicon)** – UT Austin's Longhorn Silicon GitHub page
