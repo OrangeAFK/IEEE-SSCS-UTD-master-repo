@@ -13,7 +13,7 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 * **[Nandland](https://nandland.com/)**
 
 ### 2. RTL Practice & Challenges
-* **[HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)** – Practice Verilog basics
+* **[HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)**
 * **[SysVerilog Homework](https://github.com/yuri-panchul/systemverilog-homework)**
 * **[RTL Practice](https://www.autonomousvision.io/rtl-practice)**
 * **[RTL Hub](https://rtlhub.com/)**
