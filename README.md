@@ -1,5 +1,7 @@
 # IEEE-SSCS-UTD-master-repo
 
+Welcome, comets! This master repo will continue to be updated over time. Its purpose is to host links to workshop repositories, projects, and learning resources to help organize and grow UTD's IEEE SSCS branch! 
+
 ## Workshops
 
 ## Projects
