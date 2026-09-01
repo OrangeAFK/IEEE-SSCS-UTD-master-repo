@@ -5,6 +5,7 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 ## Workshops
 
 * **[RTL2GDSII Flow on a FIR Filter](https://github.com/OrangeAFK/rtl2gdsii-fir-workshop)**
+* **[4x4 Systolic Array](https://github.com/OrangeAFK/systolic-array-workshop)**
 
 ## Projects
 
