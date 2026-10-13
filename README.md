@@ -1,6 +1,6 @@
 # IEEE-SSCS-UTD-master-repo
 
-Welcome, comets! This master repo will continue to be updated over time. Its purpose is to host links to workshop repositories, projects, and learning resources to help organize and grow UTD's IEEE SSCS branch! 
+Welcome, comets! This master repo will continue to be updated over time. Its purpose is to host links to workshop repositories, projects, archived slides, and learning resources to help organize and grow UTD's IEEE SSCS branch! 
 
 ## Projects
 * **[RISC-V Project](https://github.com/OrangeAFK/ieee-utd-risc-v)**
@@ -10,6 +10,9 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 
 * **[STILL UNDER CONSTRUCTION: RTL2GDSII Flow on a FIR Filter](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
 * **[STILL UNDER CONSTRUCTION: 4x4 Systolic Array](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+
+## Archived Slides
+
 
 ## Resources
 
