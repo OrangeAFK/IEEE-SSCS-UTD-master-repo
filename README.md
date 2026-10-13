@@ -2,12 +2,14 @@
 
 Welcome, comets! This master repo will continue to be updated over time. Its purpose is to host links to workshop repositories, projects, and learning resources to help organize and grow UTD's IEEE SSCS branch! 
 
+## Projects
+* **[RISC-V Project](https://github.com/OrangeAFK/ieee-utd-risc-v)**
+* **[MiniTPU Project](https://github.com/OrangeAFK/ieee-utd-mini-tpu)**
+
 ## Workshops
 
-* **[RTL2GDSII Flow on a FIR Filter](https://github.com/OrangeAFK/rtl2gdsii-fir-workshop)**
-* **[4x4 Systolic Array](https://github.com/OrangeAFK/systolic-array-workshop)**
-
-## Projects
+* **[STILL UNDER CONSTRUCTION: RTL2GDSII Flow on a FIR Filter](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+* **[STILL UNDER CONSTRUCTION: 4x4 Systolic Array](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
 
 ## Resources
 
