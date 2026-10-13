@@ -27,6 +27,7 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 * **[RisingEdge](https://risingedge.pro/practice)**
 
 ### 3. Additional references
+* **[From NAND to Tetris](https://www.nand2tetris.org/)**
 * **[Digital VLSI Lectures](https://www.youtube.com/playlist?app=desktop&list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)** 
 * **[Computer Architecture Lectures](https://www.youtube.com/playlist?app=desktop&list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3)**
 * **[Digital VLSI Course](https://ocw.ece.cornell.edu/ece-4740-course-details)**
