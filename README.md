@@ -24,6 +24,7 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 * **[RTL Hub](https://rtlhub.com/)**
 * **[Logi-Code](https://logi-code.com/problems/)**
 * **[Latchup](https://www.latchup.app/)**
+* **[RisingEdge](https://risingedge.pro/practice)**
 
 ### 3. Additional references
 * **[Digital VLSI Lectures](https://www.youtube.com/playlist?app=desktop&list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)** 
@@ -31,7 +32,8 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 * **[Digital VLSI Course](https://ocw.ece.cornell.edu/ece-4740-course-details)**
 * **[FPGA Hardware Acceleration Course](https://people.ece.cornell.edu/land/courses/ece5760/)** 
 * **[ChipVerify Tutorials](https://www.chipverify.com/)** 
-* **[ZipCPU Blog](https://zipcpu.com/about/)** 
+* **[ZipCPU Blog](https://zipcpu.com/about/)**
+* **[Hardware Interview Questions](https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_interview_questions)**
 
 ### 4. Simulation & Open-Source Tools
 * **[Silicon Space](https://siliconspace.org/docs)**
