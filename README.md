@@ -29,7 +29,11 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 * **[Latchup](https://www.latchup.app/)**
 * **[RisingEdge](https://risingedge.pro/practice)**
 
-### 3. Additional references
+### 3. UVM
+* **[Essential SystemVerilog for UVM Training](https://www.cadence.com/en_US/home/training/all-courses/86140.html)**
+* **[SystemVerilog Accelerated Verification with UVM Training](https://www.cadence.com/en_US/home/training/all-courses/86070.html)**
+
+### 4. Additional references
 * **[From NAND to Tetris](https://www.nand2tetris.org/)**
 * **[Digital VLSI Lectures](https://www.youtube.com/playlist?app=desktop&list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)** 
 * **[Computer Architecture Lectures](https://www.youtube.com/playlist?app=desktop&list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3)**
@@ -39,7 +43,7 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 * **[ZipCPU Blog](https://zipcpu.com/about/)**
 * **[Hardware Interview Questions](https://montychoy.com/blog/the_ultimate_list_of_hardware_engineering_internship_interview_questions)**
 
-### 4. Simulation & Open-Source Tools
+### 5. Simulation & Open-Source Tools
 * **[Silicon Space](https://siliconspace.org/docs)**
 * **[Verilator](https://www.verilator.org/)**
 * **[Cocotb](https://www.cocotb.org/)**
@@ -47,7 +51,7 @@ Welcome, comets! This master repo will continue to be updated over time. Its pur
 * **[Yosys](https://github.com/YosysHQ/yosys)** 
 * **[EDA Playground](https://www.edaplayground.com/)**
 
-### 5. Advanced Architecture, HPC & AI Hardware
+### 6. Advanced Architecture, HPC & AI Hardware
 * **[Awesome Open Source Hardware](https://github.com/aolofsson/awesome-opensource-hardware)**
 * **[TinyTPU Blog](https://www.tinytpu.com/)**
 * **[TPU Architecture Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)**
